@@ -54,7 +54,7 @@ END;
 
 ### Output:
 
-![Alt text](exp07_1.png)
+<img width="820" height="261" alt="image" src="https://github.com/user-attachments/assets/6ba68287-3ce8-4123-ae66-ed11ea9e7ca3" />
 
 ---
 
@@ -91,7 +91,8 @@ END;
 
 ### Output:
 
-![Alt text](exp07_2.png)
+<img width="823" height="267" alt="image" src="https://github.com/user-attachments/assets/4010a669-ea81-4d1b-bf98-20d0f7183dc1" />
+
 
 ---
 
@@ -135,7 +136,8 @@ END;
 
 ### Output:
 
-![Alt text](exp07_3.png)
+<img width="821" height="416" alt="image" src="https://github.com/user-attachments/assets/ea9c5547-1086-4aef-ae4e-e3c74cf419fb" />
+
 
 ---
 
@@ -175,7 +177,8 @@ END;
 
 ### Output:
 
-![Alt text](exp07_4.png)
+<img width="827" height="267" alt="image" src="https://github.com/user-attachments/assets/32ec90c9-0ce3-47ad-804b-0d1705e6bf00" />
+
 
 ---
 
@@ -217,7 +220,7 @@ END;
 
 ### Output:
 
-![Alt text](exp07_5.png)
+<img width="826" height="261" alt="image" src="https://github.com/user-attachments/assets/b3817308-43ea-4aa9-8af3-0864746f053c" />
 
 ## RESULT
 Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
